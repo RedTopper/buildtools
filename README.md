@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repo is an archive of the original repo by Steveice10 that [SuperHaxagon](https://github.com/RedTopper/Super-Haxagon) depends on.
+> It is quite old, doesn't appear to have a LICENSE file, and won't be actively maintained by me. 
+
 # buildtools
 
 Common build tools for C/C++ projects. Supports PC and 3DS targets.
