@@ -1,4 +1,7 @@
 > [!WARNING]
+> SuperHaxagon no longer uses this repo for building. It will remain here archived.
+
+> [!NOTE]
 > This repo is an archive of the original repo by Steveice10 that [SuperHaxagon](https://github.com/RedTopper/Super-Haxagon) depends on.
 > It is quite old, doesn't appear to have a LICENSE file, and won't be actively maintained by me. 
 
